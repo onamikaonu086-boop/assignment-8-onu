@@ -64,7 +64,7 @@ const Footer = () => {
             </div>
 
             <div className='border-t border-gray-900 pt-6 text-center text-gray-500 text-xs'>
-                <p>QurbaniHat &copy; {new Date().getFullYear()} - All Rights Reserved | Assignment Category-A8</p>
+                <p>QurbaniHat &copy; {new Date().getFullYear()} - All Rights Reserved | Onamika Yeasmin Onu</p>
             </div>
         </footer>
     );
