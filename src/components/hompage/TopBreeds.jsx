@@ -9,7 +9,7 @@ const breeds = [
         name: "Shahiwal",
         type: "Cow",
         origin: "Pak-India",
-        image: "https://i.postimg.cc/D0b8x9dF/shahiwal-cow.jpg", 
+        image: "https://i.ibb.co/sJN23jtN/22967dd9-fd09-40d7-8cd4-343a6703c933.png", 
         desc: "Famous for bright reddish color and premium meat quality."
     },
     {
@@ -17,7 +17,7 @@ const breeds = [
         name: "Black Bengal",
         type: "Goat",
         origin: "Bangladesh",
-        image: "https://i.postimg.cc/4xKjKq2b/black-bengal.jpg",
+        image: "https://i.ibb.co/0yJHB62K/885ec323-12fb-4612-8771-a0062aad8165.png",
         desc: "World-class local breed known for the best quality meat."
     },
     {
@@ -25,7 +25,7 @@ const breeds = [
         name: "Holstein Friesian",
         type: "Cow",
         origin: "Australia",
-        image: "https://i.postimg.cc/8P5n2ZzG/holstein-cow.jpg",
+        image: "https://i.ibb.co/8LZ05cpN/ec047bec-9684-4179-9351-87141ae18651.png",
         desc: "Huge live weight and highly demanded in dairy & Qurbani markets."
     },
     {
@@ -33,7 +33,7 @@ const breeds = [
         name: "Jamunapuri",
         type: "Goat",
         origin: "India",
-        image: "https://i.postimg.cc/wMs1hK2c/jamunapuri-goat.jpg",
+        image: "https://i.ibb.co/dsYgWZ2L/f3bd0a4f-7c33-4837-9668-9758dec3abf8.png",
         desc: "Tall structure and elegant look with white-brown shades."
     }
 ];
