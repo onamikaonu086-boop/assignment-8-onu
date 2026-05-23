@@ -23,7 +23,7 @@ export default function Navbar() {
         <div className="flex items-center space-x-6">
           <Link href="/" className={isActive("/")}>Home</Link>
           <Link href="/animals" className={isActive("/animals")}>All Animals</Link>
-          <Link href="/my-profile" className={isActive("/my-profile")}>My Profile</Link>
+          <Link href="/my-profile" className={isActive("/profile")}> Profile</Link>
         </div>
 
       
