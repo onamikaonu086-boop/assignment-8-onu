@@ -37,7 +37,7 @@ export default function AnimalDetailsPage() {
     if (!animal) return <div className="text-center py-20 text-gray-500">Loading details...</div>;
 
     return (
-        <div className="container max-w-5xl mx-auto px-6 py-12">
+        <div className="container max-w-7xl mx-auto px-6 py-12">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 bg-white p-8 rounded-3xl shadow-lg border border-gray-100">
                 
          
