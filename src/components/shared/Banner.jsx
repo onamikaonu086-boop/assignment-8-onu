@@ -57,7 +57,7 @@ const Banner = () => {
     return (
         <div className="w-full mt-6 flex justify-center">
           
-            <div className="max-w-6xl w-full mx-auto px-6 rounded-2xl overflow-hidden h-[50vh] md:h-[65vh] relative shadow-lg">
+            <div className="max-w-7xl w-full mx-auto px-6 rounded-2xl overflow-hidden h-[50vh] md:h-[65vh] relative shadow-lg">
 
                 <div
                     className='flex h-full transition-transform duration-700 ease-in-out'

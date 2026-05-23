@@ -6,7 +6,7 @@ import { FaEnvelope, FaPhoneAlt, FaMapMarkerAlt } from 'react-icons/fa';
 const Footer = () => {
     return (
         <footer className='w-full bg-gray-950 text-gray-300 pt-16 pb-6 mt-20 border-t border-gray-800'>
-            <div className='max-w-6xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10 mb-12 text-left'>
+            <div className='max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10 mb-12 text-left'>
                 
            
                 <div className='flex flex-col justify-start'>
