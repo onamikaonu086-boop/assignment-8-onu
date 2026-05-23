@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# QurbaniHat – Livestock Booking Platform
 
-## Getting Started
+QurbaniHat is a modern digital livestock marketplace designed to simplify the Qurbani experience. It connects users with healthy, premium-quality cows and goats from trusted farmers, ensuring a transparent and hassle-free booking process.
 
-First, run the development server:
+## 🚀 Live URL
+[Insert your Vercel/Live site link here]
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠 Features
+- **Modern Authentication:** Secure login/registration and Google Auth using Better-Auth.
+- **Livestock Catalog:** Browse a wide range of animals with details like breed, weight, age, and location.
+- **Smart Sorting:** Sort livestock by price (Low to High / High to Low).
+- **Booking System:** Place bookings directly with a user-friendly form (Toast notifications included).
+- **User Profile:** Manage personal info, view profile, and update details.
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop devices.
+- **Interactive UI:** Smooth animations and user-friendly navigation.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💻 Tech Stack
+- **Framework:** Next.js (App Router)
+- **Authentication:** Better-Auth (with MongoDB Adapter)
+- **Database:** MongoDB Atlas
+- **Styling:** Tailwind CSS
+- **Animations:** React-Spring
+- **Notifications:** React-Hot-Toast
+- **Icons:** React-Icons
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ⚙️ Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository:**
+   ```bash
+   git clone [Your-GitHub-Repository-Link]
